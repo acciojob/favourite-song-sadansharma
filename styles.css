@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+a{
+	text-decoration:none;
+	text-font:bold;
+	color:black;
+}
